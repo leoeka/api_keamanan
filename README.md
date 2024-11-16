@@ -5,6 +5,7 @@
 ## get = ![Alt text](<Screenshot 2024-11-13 122418.png>)
 ## update =  ![Alt text](<Screenshot 2024-11-13 122540.png>) 
 ## delete = ![Alt text](<Screenshot 2024-11-13 122807.png>), ![Alt text](<Screenshot 2024-11-13 123001.png>)
+## tugas tambahan = ![Alt text](<Screenshot 2024-11-16 194232.png>), gagal respons = ![Alt text](image.png)
 
 
 ## About Laravel
